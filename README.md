@@ -14,4 +14,5 @@ In order to execute the codes, you will need to have:
 
 
 To refer to official tutorial on model pruning, refer to:
-[Model Pruning] (https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras) - Magnitude Based Weight Pruning
+
+[Model Pruning](https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras) - Magnitude Based Weight Pruning
